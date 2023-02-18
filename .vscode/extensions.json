@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "salesforce.salesforcedx-vscode-core",
+        "mshdinsight.azure-hdinsight",
+        "denoland.vscode-deno"
+    ]
+}
