@@ -391,7 +391,8 @@
 		"vscode": {
 			"extensions": [
 				"formulahendry.code-runner",
-				"ms-vscode-remote.remote-containers"
+				"ms-vscode-remote.remote-containers",
+				"eamodio.gitlens"
 			]
 		}
 	}
